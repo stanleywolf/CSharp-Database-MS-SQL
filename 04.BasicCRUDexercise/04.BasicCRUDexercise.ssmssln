@@ -1,0 +1,19 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 14.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "04.BasicCRUDexercise", "04.BasicCRUDexercise\04.BasicCRUDexercise.ssmssqlproj", "{9A62DE2F-C9EC-4DF1-8AB7-C4C3831378DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A62DE2F-C9EC-4DF1-8AB7-C4C3831378DD}.Default|Default.ActiveCfg = Default
+		{B0C56E04-09E1-458B-AED1-0CEA10C2F17F}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
